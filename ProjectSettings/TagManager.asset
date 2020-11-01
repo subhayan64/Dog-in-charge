@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fence
+  - wolf
+  - sheep
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 1988922087
+    locked: 0
+  - name: crop
+    uniqueID: 568227463
+    locked: 0
+  - name: sheep
+    uniqueID: 2463553355
+    locked: 0
+  - name: wolf
+    uniqueID: 973426597
+    locked: 0
+  - name: dog
+    uniqueID: 318340609
+    locked: 0
+  - name: fg
+    uniqueID: 865402833
+    locked: 0
