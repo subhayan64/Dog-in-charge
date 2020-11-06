@@ -1,6 +1,7 @@
 # Duke in-charge
 
 A game I made for GMTK game jam 2020
+https://s2d.itch.io/duke-in-charge
 
 ## Game rules-
 
